@@ -13,7 +13,7 @@ Switch number N (1-8) will display digit "N" on the 7-segment display
 
 ## How to test
 
-Flip switch N, where N is switch 1-8, and the corresponding digit will appear on the displau
+Flip switch N, where N is switch 1-8, and the corresponding digit will appear on the display
 
 ## External hardware
 
