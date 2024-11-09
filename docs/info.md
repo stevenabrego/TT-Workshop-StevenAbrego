@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Test2
+Switch number N (1-8) will display digit "N" on the 7-segment display
 
 ## How to test
 
-Test
+Flip switch N, where N is switch 1-8, and the corresponding digit will appear on the displau
 
 ## External hardware
 
-Test
+8-Switch array, 7-Segment Display (common cathode)
